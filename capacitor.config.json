@@ -1,0 +1,6 @@
+{
+  "appId": "com.codestudy.prostable",
+  "appName": "CodeStudy Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
